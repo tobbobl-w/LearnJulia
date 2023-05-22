@@ -18,6 +18,9 @@ function random()
     return randn()
 end
 
+function besttgtg()
+    println("Greggs")
+end
 
 export foo
 
