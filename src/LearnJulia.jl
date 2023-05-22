@@ -10,6 +10,12 @@ function foo(μ=1.0, σ=2.0)
     return E(x -> sin(x))
 end
 
+function bar()
+    return 10
+end
+
 export foo
+
+
 
 end
