@@ -14,6 +14,11 @@ function bar()
     return 10
 end
 
+function random()
+    return randn()
+end
+
+
 export foo
 
 
